@@ -31,6 +31,8 @@ creator:
     gutenberg_agent_id: '33081'
     url: http://www.gutenberg.org/2009/agents/33081
 description: This volume covers 1848-1861.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28020#History-of-Woman-Suffrage-Volume-I
 gutenberg_bookshelf: Suffrage
 gutenberg_issued: '2009-02-07'
 gutenberg_type: Text
