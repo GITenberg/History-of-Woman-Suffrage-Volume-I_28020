@@ -1,0 +1,50 @@
+_repo: History-of-Woman-Suffrage-Volume-I_28020
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Anthony, Susan B. (Susan Brownell)
+    birthdate: 1820
+    deathdate: 1906
+    gutenberg_agent_id: '33080'
+    url: http://www.gutenberg.org/2009/agents/33080
+    wikipedia: http://en.wikipedia.org/wiki/Susan_B._Anthony
+  - agent_name: Stanton, Elizabeth Cady
+    aliases:
+    - Cady, Elizabeth
+    - Stanton, Lizzie
+    - Stanton, E. Cady (Elizabeth Cady)
+    birthdate: 1815
+    deathdate: 1902
+    gutenberg_agent_id: '3186'
+    url: http://www.gutenberg.org/2009/agents/3186
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Cady_Stanton
+  - agent_name: Gage, Matilda Joslyn
+    aliases:
+    - Joslyn, Matilda E.
+    - Gage, Mrs. Henry H.
+    - Gage, M. E. J. (Matilda E. Joslyn)
+    birthdate: 1826
+    deathdate: 1898
+    gutenberg_agent_id: '33081'
+    url: http://www.gutenberg.org/2009/agents/33081
+description: This volume covers 1848-1861.
+gutenberg_bookshelf: Suffrage
+gutenberg_issued: '2009-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JK'
+- !lcsh 'Women -- Suffrage -- History'
+- !lcsh 'Women''s rights -- United States -- History'
+- !lcsh 'Women''s rights -- History'
+- !lcsh 'Women -- Suffrage -- United States -- History'
+title: History of Woman Suffrage, Volume I
+url: http://www.gutenberg.org/ebooks/28020
